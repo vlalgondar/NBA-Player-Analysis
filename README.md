@@ -1,3 +1,3 @@
 # NBA-Player-Analysis
 
-Python Data-Visualization Project and Paper
+Our project utilized advanced data visualization techniques, including radar charts and correlation heatmaps, to analyze and compare NBA player performance during the 2023-2024 season. By leveraging a comprehensive dataset of player statistics, we identified key patterns in scoring, efficiency, and versatility across various player roles. The project involved creating an interactive Python dashboard that provides holistic insights into player effectiveness, enabling comparisons based on multiple metrics. This work showcases skills in Python programming, data visualization with libraries like Matplotlib and Seaborn, and the application of statistical analysis in sports analytics.
